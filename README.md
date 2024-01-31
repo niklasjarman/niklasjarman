@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Niklas Jarman, a computer science major who's had a passion for programming and computers since elementary school. <br>I have had experience with languages such as C++, Python, and Java. <br>I thrive in collaborative projects and am able to communicate well. <br>I have strong problem solving skills but are looking to grow. <br>I am currently working on a solo project that involves web scraping and React JavaScript.<br>I currently attend Wofford College and have a 4.0 GPA.
+I'm Niklas Jarman, a computer science major who's had a passion for programming and computers since elementary school. <br>I have had experience with languages such as C++, Python, and Java. <br>I thrive in collaborative projects and am able to communicate well. <br>I have strong problem solving skills but still looking to grow. <br>I am currently working on a solo project that involves web scraping and React JavaScript.<br>I currently attend Wofford College and have a 4.0 GPA.
 
 
 ## 🌐 Socials:
